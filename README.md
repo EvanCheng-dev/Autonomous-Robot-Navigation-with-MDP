@@ -24,16 +24,14 @@ The project is implemented in MATLAB and includes the following key components:
 
 ## Usage
 1. Clone the repository:
-'''bash
+'''
 git clone <repository-url>
 '''
-
 2. Open the project in MATLAB and navigate to the project directory.
 3. Run the main script:
-'''bash
+'''
 Main
 '''
-
 
 ## Results
 
