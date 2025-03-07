@@ -23,9 +23,15 @@ The project is implemented in MATLAB and includes the following key components:
 - **Main.m**: Initializes the environment, runs Value Iteration, and simulates the robot’s navigation based on the computed policy.
 
 ## Usage
-1. Clone the repository: 'git clone <repository-url>'
+1. Clone the repository: 
+  ```sh
+  git clone https://github.com/EvanCheng-dev/Autonomous-Robot-Navigation-with-MDP
+  ```
 2. Open the project in MATLAB and navigate to the project directory.
-3. Run the main script: 'Main'
+3. Run the main script:
+  ```sh
+  Main
+  ```
 
 ## Results
 
